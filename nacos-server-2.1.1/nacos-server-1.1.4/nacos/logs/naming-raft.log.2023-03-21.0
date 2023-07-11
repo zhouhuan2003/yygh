@@ -1,0 +1,92 @@
+2023-03-21 08:52:03,167 INFO initializing Raft sub-system
+
+2023-03-21 08:52:03,168 INFO raft notifier started
+
+2023-03-21 08:52:03,168 INFO finish loading all datums, size: 0 cost 0 ms.
+
+2023-03-21 08:52:03,170 INFO cache loaded, datum count: 0, current term: 0
+
+2023-03-21 08:52:03,170 INFO finish to load data from disk, cost: 2 ms.
+
+2023-03-21 08:52:03,173 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2023-03-21 08:52:03,104 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2023-03-21 08:52:03,179 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2023-03-21 08:52:03,219 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2023-03-21 08:52:04,601 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2023-03-21 08:52:07,964 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 08:52:07,964 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2023-03-21 08:52:07,964 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 08:52:08,684 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":19429,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
+
+2023-03-21 08:52:11,125 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 08:53:11,084 INFO add listener: com.alibaba.nacos.naming.iplist.8c75b383-4ae7-4b3b-b259-9d4decc08557##seata@@seata-server
+
+2023-03-21 09:15:22,253 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":17499,"state":"CANDIDATE","term":1,"voteFor":"192.168.9.1:8848"}, term: 1
+
+2023-03-21 09:15:22,253 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":18266,"state":"CANDIDATE","term":2,"voteFor":"192.168.9.1:8848"}, term: 2
+
+2023-03-21 09:15:22,253 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":16896,"state":"CANDIDATE","term":3,"voteFor":"192.168.9.1:8848"}, term: 3
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":18061,"state":"CANDIDATE","term":4,"voteFor":"192.168.9.1:8848"}, term: 4
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15687,"state":"CANDIDATE","term":5,"voteFor":"192.168.9.1:8848"}, term: 5
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":17092,"state":"CANDIDATE","term":6,"voteFor":"192.168.9.1:8848"}, term: 6
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":16672,"state":"CANDIDATE","term":7,"voteFor":"192.168.9.1:8848"}, term: 7
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":19421,"state":"CANDIDATE","term":8,"voteFor":"192.168.9.1:8848"}, term: 8
+
+2023-03-21 09:15:22,255 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15616,"state":"CANDIDATE","term":9,"voteFor":"192.168.9.1:8848"}, term: 9
+
+2023-03-21 09:15:23,895 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 09:15:25,899 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15767,"state":"CANDIDATE","term":10,"voteFor":"192.168.9.1:8848"}, term: 10
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":16347,"state":"CANDIDATE","term":11,"voteFor":"192.168.9.1:8848"}, term: 11
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":19517,"state":"CANDIDATE","term":12,"voteFor":"192.168.9.1:8848"}, term: 12
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15936,"state":"CANDIDATE","term":13,"voteFor":"192.168.9.1:8848"}, term: 13
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15248,"state":"CANDIDATE","term":14,"voteFor":"192.168.9.1:8848"}, term: 14
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15696,"state":"CANDIDATE","term":15,"voteFor":"192.168.9.1:8848"}, term: 15
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":18432,"state":"CANDIDATE","term":16,"voteFor":"192.168.9.1:8848"}, term: 16
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15153,"state":"CANDIDATE","term":17,"voteFor":"192.168.9.1:8848"}, term: 17
+
+2023-03-21 09:52:42,198 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":18824,"state":"CANDIDATE","term":18,"voteFor":"192.168.9.1:8848"}, term: 18
+
+2023-03-21 09:52:42,199 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":19944,"state":"CANDIDATE","term":19,"voteFor":"192.168.9.1:8848"}, term: 19
+
+2023-03-21 09:52:42,199 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.9.1:8848","leaderDueMs":15407,"state":"CANDIDATE","term":20,"voteFor":"192.168.9.1:8848"}, term: 20
+
+2023-03-21 09:52:42,217 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 09:52:44,222 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2023-03-21 10:26:26,698 INFO add listener: com.alibaba.nacos.naming.iplist.public##seata@@seata-server
+
+2023-03-21 10:56:24,699 INFO add listener: com.alibaba.nacos.naming.iplist.public##SEATA_GROUP@@seata-server
+
+2023-03-21 11:13:45,963 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-order-service
+
+2023-03-21 11:19:21,860 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-storage-service
+
+2023-03-21 11:21:35,240 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-accout-service
+
+2023-03-21 11:58:38,730 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@seata-account-service
+

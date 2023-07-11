@@ -1,0 +1,74 @@
+2023-03-19 19:11:41,454 INFO notifyConnectTimeout:200
+
+2023-03-19 19:11:41,456 INFO notifySocketTimeout:8000
+
+2023-03-19 19:11:41,456 INFO isHealthCheck:true
+
+2023-03-19 19:11:41,456 INFO maxHealthCheckFailCount:12
+
+2023-03-19 19:11:41,456 INFO maxContent:10485760
+
+2023-03-19 19:11:41,998 INFO Schema 'NACOS' already exists.
+
+2023-03-19 19:11:42,058 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2023-03-19 19:11:42,114 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2023-03-19 19:11:42,138 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2023-03-19 19:11:42,149 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2023-03-19 19:11:42,194 INFO Page Page(1,Container(0, 1968)) could not be written to disk, please check if the disk is full, or if a file system limit, such as a quota or a maximum file size, has been reached.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,196 INFO No current connection.
+
+2023-03-19 19:11:42,197 INFO No current connection.
+
+2023-03-19 19:11:42,197 INFO No current connection.
+
+2023-03-19 19:11:42,437 INFO ServerListService address-server port:8848
+
+2023-03-19 19:11:42,437 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2023-03-19 19:11:42,440 WARN [serverlist] updated to [192.168.9.1]
+
+2023-03-19 19:11:42,518 WARN DumpService start
+
+2023-03-19 19:11:42,520 INFO start clear all config-info.
+
+2023-03-19 19:11:42,525 WARN clear all config-info failed.
+
+2023-03-19 19:11:42,525 WARN clear all config-info-tenant failed.
+
+2023-03-19 19:11:42,699 INFO start clear all config-info-beta.
+
+2023-03-19 19:11:42,699 WARN clear all config-info-beta failed.
+
+2023-03-19 19:11:42,699 WARN clear all config-info-beta-tenant failed.
+
+2023-03-19 19:11:42,713 INFO start clear all config-info-tag.
+
+2023-03-19 19:11:42,714 WARN clear all config-info-tag failed.
+
+2023-03-19 19:11:42,714 WARN clear all config-info-tag-tenant failed.
+

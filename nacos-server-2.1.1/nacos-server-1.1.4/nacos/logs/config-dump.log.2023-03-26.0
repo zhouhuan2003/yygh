@@ -1,0 +1,16 @@
+2023-03-26 19:30:29,922 INFO [dump-all-ok] nacos-config-client-dev.yaml+DEFAULT_GROUP, 1679273296375, length=77, md5=b41b76e6625756c06298a436792f2558
+
+2023-03-26 19:30:29,924 INFO [dump-all-ok] nacos-config-client-test.yaml+DEFAULT_GROUP, 1679273319931, length=78, md5=8a6b8af9239dfd23895f263dc199fd1a
+
+2023-03-26 19:30:29,925 INFO [dump-all-ok] nacos-config-client-info.yaml+DEV_GROUP, 1679273567877, length=58, md5=69968bbae442ebadec49211d13241200
+
+2023-03-26 19:30:29,925 INFO [dump-all-ok] nacos-config-client-info.yaml+TEST_GROUP, 1679273605965, length=59, md5=d71fdd94032b73c255345db28add2000
+
+2023-03-26 19:30:29,925 INFO [dump-all-ok] nacos-config-client-info.yaml+TEST_GROUP, 1679273886009, length=63, md5=8cf9aa9d377ee0bb19f39b800af7fdfe
+
+2023-03-26 19:30:29,926 INFO [dump-all-ok] nacos-config-client-info.yaml+TEST_GROUP, 1679273914148, length=64, md5=84cf07a7d3c85bb603c9413a561072a5
+
+2023-03-26 19:30:29,926 INFO [dump-all-ok] seataServer.properties+SEATA_GROUP, 1679367759816, length=3678, md5=bf34ba4d53ac9018f214de32606e2d13
+
+2023-03-26 19:30:29,926 INFO [dump-all-ok] service.vgroupMapping.fsp_tx_group+SEATA_GROUP, 1679365515381, length=7, md5=c21f969b5f03d33d43e04f8f136e7682
+

@@ -1,0 +1,20 @@
+2023-03-26 19:30:27,537 INFO listen for service meta change
+
+2023-03-26 19:30:31,467 INFO [SERVER-INIT] got port: 8848
+
+2023-03-26 19:30:31,467 INFO [SERVER-INIT] got path: /nacos
+
+2023-03-26 19:30:33,346 INFO receive config info: unknown#192.168.9.1:8848#1679830233346#8
+
+
+2023-03-26 19:30:35,361 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":1679830233346,"lastRefTimeStr":"2023-03-26 19:30:33","servePort":8848,"site":"unknown","weight":8}]
+
+2023-03-26 19:30:35,361 INFO receive config info: unknown#192.168.9.1:8848#1679830235361#8
+
+
+2023-03-26 19:30:37,376 INFO receive config info: unknown#192.168.9.1:8848#1679830237376#8
+
+
+2023-03-26 19:30:39,386 INFO receive config info: unknown#192.168.9.1:8848#1679830239386#8
+
+

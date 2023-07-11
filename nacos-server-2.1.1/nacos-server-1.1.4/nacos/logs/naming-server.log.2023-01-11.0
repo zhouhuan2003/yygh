@@ -1,0 +1,116 @@
+2023-01-11 13:37:29,525 INFO listen for service meta change
+
+2023-01-11 13:37:32,289 INFO [SERVER-INIT] got port: 8848
+
+2023-01-11 13:37:32,289 INFO [SERVER-INIT] got path: /nacos
+
+2023-01-11 13:37:33,443 INFO receive config info: unknown#192.168.9.1:8848#1673415453443#8
+
+
+2023-01-11 13:37:33,444 ERROR [SERVER-STATUS] Exception while sending server status
+
+java.lang.IllegalArgumentException: server: 192.168.9.1:8848 is not in serverlist
+	at com.alibaba.nacos.naming.cluster.ServerListManager.onReceiveServerStatus(ServerListManager.java:198)
+	at com.alibaba.nacos.naming.cluster.ServerListManager$ServerStatusReporter.run(ServerListManager.java:345)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:744)
+2023-01-11 13:37:35,457 INFO receive config info: unknown#192.168.9.1:8848#1673415455457#8
+
+
+2023-01-11 13:37:37,460 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.9.1","key":"192.168.9.1:8848","lastRefTime":1673415455457,"lastRefTimeStr":"2023-01-11 13:37:35","servePort":8848,"site":"unknown","weight":8}]
+
+2023-01-11 13:37:37,460 INFO receive config info: unknown#192.168.9.1:8848#1673415457460#8
+
+
+2023-01-11 13:37:39,476 INFO receive config info: unknown#192.168.9.1:8848#1673415459476#8
+
+
+2023-01-11 13:37:41,484 INFO receive config info: unknown#192.168.9.1:8848#1673415461484#8
+
+
+2023-01-11 13:37:43,485 INFO receive config info: unknown#192.168.9.1:8848#1673415463485#8
+
+
+2023-01-11 13:37:45,490 INFO receive config info: unknown#192.168.9.1:8848#1673415465490#8
+
+
+2023-01-11 13:37:47,495 INFO receive config info: unknown#192.168.9.1:8848#1673415467495#8
+
+
+2023-01-11 13:37:49,496 INFO receive config info: unknown#192.168.9.1:8848#1673415469496#8
+
+
+2023-01-11 13:37:51,501 INFO receive config info: unknown#192.168.9.1:8848#1673415471501#8
+
+
+2023-01-11 13:37:53,504 INFO receive config info: unknown#192.168.9.1:8848#1673415473504#8
+
+
+2023-01-11 13:37:55,505 INFO receive config info: unknown#192.168.9.1:8848#1673415475505#8
+
+
+2023-01-11 13:37:57,507 INFO receive config info: unknown#192.168.9.1:8848#1673415477507#8
+
+
+2023-01-11 13:37:59,513 INFO receive config info: unknown#192.168.9.1:8848#1673415479513#8
+
+
+2023-01-11 13:38:01,521 INFO receive config info: unknown#192.168.9.1:8848#1673415481521#8
+
+
+2023-01-11 13:38:03,530 INFO receive config info: unknown#192.168.9.1:8848#1673415483530#8
+
+
+2023-01-11 13:38:05,537 INFO receive config info: unknown#192.168.9.1:8848#1673415485537#8
+
+
+2023-01-11 13:38:07,550 INFO receive config info: unknown#192.168.9.1:8848#1673415487550#8
+
+
+2023-01-11 13:38:09,555 INFO receive config info: unknown#192.168.9.1:8848#1673415489555#8
+
+
+2023-01-11 13:38:11,562 INFO receive config info: unknown#192.168.9.1:8848#1673415491562#8
+
+
+2023-01-11 13:38:13,566 INFO receive config info: unknown#192.168.9.1:8848#1673415493566#8
+
+
+2023-01-11 13:38:15,581 INFO receive config info: unknown#192.168.9.1:8848#1673415495581#8
+
+
+2023-01-11 13:38:17,585 INFO receive config info: unknown#192.168.9.1:8848#1673415497585#8
+
+
+2023-01-11 13:38:19,590 INFO receive config info: unknown#192.168.9.1:8848#1673415499590#8
+
+
+2023-01-11 13:38:21,595 INFO receive config info: unknown#192.168.9.1:8848#1673415501595#8
+
+
+2023-01-11 13:38:23,599 INFO receive config info: unknown#192.168.9.1:8848#1673415503599#8
+
+
+2023-01-11 13:38:25,610 INFO receive config info: unknown#192.168.9.1:8848#1673415505610#8
+
+
+2023-01-11 13:38:27,614 INFO receive config info: unknown#192.168.9.1:8848#1673415507614#8
+
+
+2023-01-11 13:38:29,617 INFO receive config info: unknown#192.168.9.1:8848#1673415509617#8
+
+
+2023-01-11 13:38:31,626 INFO receive config info: unknown#192.168.9.1:8848#1673415511626#8
+
+
+2023-01-11 13:38:33,638 INFO receive config info: unknown#192.168.9.1:8848#1673415513638#8
+
+
+2023-01-11 13:38:35,642 INFO receive config info: unknown#192.168.9.1:8848#1673415515642#8
+
+

@@ -1,0 +1,90 @@
+2023-01-11 13:37:27,066 INFO Starting Nacos v1.1.4 on LAPTOP-E20CL7RN with PID 13320 (E:\BaiduNetdiskDownload\尚硅谷SpringSecurity教程\资料\nacos-server-1.1.4\nacos\target\nacos-server.jar started by 86132 in E:\BaiduNetdiskDownload\尚硅谷SpringSecurity教程\资料\nacos-server-1.1.4\nacos\bin)
+
+2023-01-11 13:37:27,071 INFO The following profiles are active: standalone
+
+2023-01-11 13:37:28,715 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$b740d532] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-01-11 13:37:28,792 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-01-11 13:37:28,794 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@451001e5' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-01-11 13:37:28,796 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$dc1577e4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-01-11 13:37:28,799 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2023-01-11 13:37:29,252 INFO Tomcat initialized with port(s): 8848 (http)
+
+2023-01-11 13:37:29,276 INFO Starting service [Tomcat]
+
+2023-01-11 13:37:29,276 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2023-01-11 13:37:29,288 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [E:\idea\java_jdk_1.8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-17.0.3\bin;C:\Program Files\Java\jdk-17.0.3\jre\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_191\bin;E:\sql_\100\Tools\Binn\;E:\sql\100\Tools\Binn\;E:\sql\100\DTS\Binn\;E:\sql_\100\Tools\Binn\VSShell\Common7\IDE\;c:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies\;E:\sql_\100\DTS\Binn\;%MAVEN_HOME%\bin;C:\Program Files\Bandizip\;E:\Git\cmd;E:\Xshell\;E:\ChromeCoreDownloads\mysql-5.7.19-winx64\mysql-5.7.19-winx64\bin;F:\Java\1.java工具\mysql\mysql.5.7.19\mysql-5.7.19-winx64\bin;E:\BaiduNetdiskDownload\微服务&中间件\资料-Dubbo\Dubbo\资料\软件\;C:\Users\86132\AppData\Roaming\npm；;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Java\jdk1.8.0_191\bin;C:\Users\86132\AppData\Roaming\\Aria2\maria2c.exe;E:\浏览器\Microsoft VS Code\bin;F:\yuanshenGame\Fiddler;E:\ChromeCoreDownloads\mysql-5.7.19-winx64\mysql-5.7.19-winx64\bin;F:\Java\1.java工具\mysql\mysql.5.7.19\mysql-5.7.19-winx64\bin;C:\Users\86132\AppData\Roaming\npm;;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;.]
+
+2023-01-11 13:37:29,375 INFO Initializing Spring embedded WebApplicationContext
+
+2023-01-11 13:37:29,375 INFO Root WebApplicationContext: initialization completed in 2261 ms
+
+2023-01-11 13:37:31,118 INFO Use Mysql as the driver
+
+2023-01-11 13:37:31,548 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2023-01-11 13:37:31,730 INFO Adding welcome page: class path resource [static/index.html]
+
+2023-01-11 13:37:32,044 INFO Creating filter chain: Ant [pattern='/'], []
+
+2023-01-11 13:37:32,044 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2023-01-11 13:37:32,045 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2023-01-11 13:37:32,046 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2023-01-11 13:37:32,069 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5b444398, org.springframework.security.web.context.SecurityContextPersistenceFilter@7e928e2f, org.springframework.security.web.header.HeaderWriterFilter@2cae1042, org.springframework.security.web.authentication.logout.LogoutFilter@2fc0cc3, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@cb191ca, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@788fcafb, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1698ee84, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@42f48531, org.springframework.security.web.session.SessionManagementFilter@7c209437, org.springframework.security.web.access.ExceptionTranslationFilter@2b5825fa, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@2a3c96e3]
+
+2023-01-11 13:37:32,144 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2023-01-11 13:37:32,175 INFO Initializing ExecutorService 'taskScheduler'
+
+2023-01-11 13:37:32,288 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2023-01-11 13:37:32,294 INFO Started Nacos in 6.223 seconds (JVM running for 6.714)
+
+2023-01-11 13:37:32,294 INFO Nacos Log files: E:\BaiduNetdiskDownload\尚硅谷SpringSecurity教程\资料\nacos-server-1.1.4\nacos/logs/
+
+2023-01-11 13:37:32,295 INFO Nacos Conf files: E:\BaiduNetdiskDownload\尚硅谷SpringSecurity教程\资料\nacos-server-1.1.4\nacos/conf/
+
+2023-01-11 13:37:32,295 INFO Nacos Data files: E:\BaiduNetdiskDownload\尚硅谷SpringSecurity教程\资料\nacos-server-1.1.4\nacos/data/
+
+2023-01-11 13:37:32,295 INFO Nacos started successfully in stand alone mode.
+
+2023-01-11 13:37:36,030 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2023-01-11 13:37:36,030 INFO Initializing Servlet 'dispatcherServlet'
+
+2023-01-11 13:37:36,038 INFO Completed initialization in 8 ms
+
+2023-01-11 13:37:45,673 ERROR Responding with unauthorized error. Message - Full authentication is required to access this resource
+
