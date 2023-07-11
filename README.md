@@ -138,7 +138,7 @@
 | 工程模块名称               | 作用                |
 | -------------------------- | ------------------- |
 | common                     | 公共模块            |
-| hospital-manage            | 后端管理模块        |
+| hospital-manage            | 医院接口模拟端        |
 | model                      | 所有的model类       |
 | service(二级父工程)        | api接口服务父节点   |
 | service_hosp               | 医院api接口服务     |
@@ -168,6 +168,24 @@
   3.就诊人管理
   ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/e332b818-131f-40a3-a8c7-bcc5490960da)
   ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/8384d2aa-f51f-4526-bd6a-140cd896c20d)
+  4.预约挂号
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/646c2c9d-9df8-4b1f-bc35-fe42bbace142)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/18edbfe0-aab4-4cfc-b760-a7c9ef57d2ec)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/de7a5933-5f2f-418a-b895-c5e4e6623a74)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/de1b7d79-dad7-4ab6-9e73-b818133e5bcd)
+  5.后台管理
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/8fa28dcc-3845-4424-a153-8f1c9f6ed457)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/33d1f96f-b708-47a6-a7ae-af3c0e842b39)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/3a41818c-abff-4ff0-8413-4fe958a021f4)
+  ![image](https://github.com/zhouhuan2003/yygh/assets/109257747/1b2a5522-adf3-4560-b0c8-a6016e577521)
+
+
+
+
+
+
+
+
 
 
 
